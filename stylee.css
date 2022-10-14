@@ -1,27 +1,27 @@
 body {
-    background-color: rgb(245, 245, 245);
-           
-            
+    background-color: rgb(245, 245, 245);        
     }
 
-img {
-     height: 100px;
-            
+.pic1 {
+     height: 100px;       
     }
-.myDiv {
+
+.mydiv {
     background-color: #e1e8e9;      
-    text-align: center;
-         
+    text-align: center;    
     }
 
-.div3{
-    background-color: #e1e8e9;
-}
+.table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+    }
 
-.div5{
-    background-color: #e1e8e9;
-
-}
+.ul{
+    display: inline-block;
+   text-align: left;
+    }
 
         
 
