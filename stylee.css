@@ -32,6 +32,15 @@ body {
     display: inline-block;
    text-align: left;
     }
+.footer-div{
+    text-align: center;
+    padding: 20px;
+}
+.link-1{
+    padding: 100px;
+    text-decoration: none;
+    color: black;
+}
         
 
         
